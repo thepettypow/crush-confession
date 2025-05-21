@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <div style={styles.container}>
       <div style={styles.card}>
-        <h2 style={styles.title}>I've got a confession...</h2>
+        <h2 style={styles.title}>I&apos;ve got a confession...</h2>
         <p style={styles.text}>
           I have a crush on you! <br /> Would you like to respond?
         </p>
